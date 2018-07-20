@@ -1,3 +1,40 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+disqusShortname = "dream-plus"
+enableRobotsTXT = true
+enableEmoji=true
+
+[params]
+	author = "Timothee Decoster"
+	description = "My first blog."
+	avatar = "/img/avatar1.svg"
+	enableToc = true
+	enableShareCard = true
+	favicon = "/img/defaultFav.ico"
+  
+  	#Background settings
+	enableColorBG= false
+	bgBlur = "0px"
+	bgImage = "/img/bg1.jpeg"
+  
+	#Post-displaying Settings
+	enableTags = true
+	enableCategories = true
+
+	#Cards or posts shown per page
+	itemsPerPage = 4
+
+	#Set whether you're hosting "cards" or "post"
+	contentType = "post"
+
+	#Enable Twitter Emoji
+	twitterEmoji=true
+
+[social]
+	email = "decostertimoth@gmail.com"
+	github = "timothee-decoster"
+	siteStartYear = 2018
