@@ -1,9 +1,8 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
-lastmod: {{ .Date }}
-cover: "/images/default.jpg"
-draft: true
+cover:
+draft: false
 categories: ["category1"]
 tags: ["tag1", "tag2"]
 description: 

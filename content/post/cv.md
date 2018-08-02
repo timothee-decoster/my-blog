@@ -8,45 +8,19 @@ description: "Mon CV en ligne"
 cover: "https://raw.githubusercontent.com/timothee-decoster/my-blog/master/images/cv-intro.png"
 ---
 
-![Intro](https://raw.githubusercontent.com/timothee-decoster/my-blog/master/images/cv-intro.png)
-
-Lien : [here](https://silly-mahavira-01c03e.netlify.com/)
+<a href="https://silly-mahavira-01c03e.netlify.com/" target="_blank" style="display:flex; justify-content:center; align-items:center">![Intro](https://raw.githubusercontent.com/timothee-decoster/my-blog/master/images/cv-intro.png)</a>
 
 ---
 
-# test 1
+# Description
 
-> classe
+Afin d'alléger mon curriculum vitae (papier), j'ai pris l'initiative de faire un site regroupant toute les informations me concernant. Ainsi au début de ce document, je peux y insérer l'adresse de ce site en guise de complément d'information.
+J'ai décidé de faire ce site intégralement de ma personne, cela a pour conséquence de montrer mes compétences et motivations pour les personnes visitant mon site.
 
----
+Sur ce dernier on y retrouve donc les informations me concernant sur mes formations, expérience et tous ce qui se trouve dans un curriculum vitae. En plus de ces informations habituel, le visiteur a en plus la possibilité de me contacter via **mail** et a aussi la possibilité de voir mes projets en allant sur mon profil **github** ou alors de venir sur ce site.
 
-# test 2
+Le site est *responsive* (cela veut dire que le contenu du site s'adapte automatiquement à la résolution d'un écran de téléphone).
 
-liste :
+**Remarque sur l'utilisation de l'icone de mail :**
 
-- 1
-- 2
-
----
-
-# test 3
-
-image :
-
-![alt](https://raw.githubusercontent.com/timothee-decoster/timothee-decoster-cv/master/src/assets/vue-logo.png)
-
-# test 4
-
-commande `sudo`
-
-bash :
-```bash
-sudo add-apt-repository ppa:mongoose-os/mos
-sudo apt-get update
-sudo apt-get install mos
-```
-
-# test 5
-
-video :
-{{< youtube jadxTFqyhRM >}}
+> sur portable on est bien redirigé vers le systeme de messagerie mais sur ordinnateur il se peut que cela ne fonctionne pas très bien, dans ce cas vous verrez en bas à gauche mon adresse mail quand vous survolez l'icone
