@@ -1,17 +1,17 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-US"
+defaultContentLanguage = "fr"
+title = "Mon grenier"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsOptions = "linenos=table"
-disqusShortname = "dream-plus"
 enableRobotsTXT = true
 enableEmoji=true
 
 [params]
 	author = "Timothee Decoster"
 	description = "My first blog."
-	avatar = "/img/avatar1.svg"
+	avatar = "/img/avatar.jpg"
 	enableToc = true
 	enableShareCard = true
 	favicon = "/img/defaultFav.ico"
@@ -19,7 +19,7 @@ enableEmoji=true
   	#Background settings
 	enableColorBG= false
 	bgBlur = "0px"
-	bgImage = "/img/bg1.jpeg"
+	bgImage = "/img/matrix.jpg"
   
 	#Post-displaying Settings
 	enableTags = true

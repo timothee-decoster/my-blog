@@ -1,13 +1,12 @@
-<h1>So, Who Am I?</h1>
+<h1>Un grenier ?</h1>
 
 ----
 <br>
-I’m just another teenager who likes **writing**, **programming** and **making stuff**. Even setting the title as **Who Am I**  for this article is reminding me of `whoami` in Linux. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
 
-Recently I've also started taking interest in web designing and hosting the fruitful results of which these site and blogs are! I also make **projects** and share them online at **Instructables**, the link of which has been placed on the home page. Making stuff is just one of the things I love the most.
+Durant mon stage chez <a href="https://www.elosi.com/" target="_blank">**ELOSI**</a>, j'ai acquis diverse expérience dans le développement Web.
 
-That’s all that I can think of right now. Hopefully I’ll add something more to this later on. :sweat_smile:
+J'ai eu par la suite de nouvelles idées de projets dont ce blog qui me servira de **grenier** regroupant ces derniers (anciens comme nouveaux).
 
-Curious about me? Use the social links above to check out my profiles. 
+Un article par idée : on y retrouvera la technologie utilisée pour la réalisation ainsi que le but mais aussi l'utilité de ce dernier, j'y mettrai à chacun une démonstration et tous les projets seront accessibles via mon compte github.
 
-You can also support me on <a href="https://patreon.com/UtkarshVerma" target="_blank">Patreon</a>. I'd really appreciate it.
+Je reste à l'écoute pour des éventuelles questions ou encore propositions d'amélioration ou de projet à faire ...

@@ -1,0 +1,44 @@
+[home]
+other = "Accueil"
+
+[prevPage]
+other = "Page précédente"
+
+[nextPage]
+other = "Page suivante"
+
+[flip]
+other = "A propos"
+
+[clickToPopTagsAndCategories]
+other = "Cliquez ici pour afficher les tags et les catégories"
+
+[updateAt]
+other = "Dernière mise à jour"
+
+[returnHome]
+other = "Retourner à l'accueil"
+
+[noTag]
+other = "Aucun Tag"
+
+[archives]
+other = "Archive"
+
+[tag]
+one = "Tag"
+other = "{{ .Count }} tags"
+
+[category]
+one = "Catégorie"
+other = "{{ .Count }} catégories"
+
+[allTags]
+other = "Tous les Tags"
+
+[allCategories]
+other = "Toutes les catégories"
+
+[article]
+one = "1 article"
+other = "{{ .Count }} articles"
